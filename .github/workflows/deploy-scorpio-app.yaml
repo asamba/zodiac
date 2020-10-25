@@ -1,5 +1,5 @@
 name: Deploy Scorpio App
-env:
+env: 
   DEFAULT_LOCATION: uksouth
   SCORPIO_ALIAS: bpscorpio
 #on:
